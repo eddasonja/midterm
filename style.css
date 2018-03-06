@@ -1,0 +1,49 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: impact ;
+
+}
+header {
+	width: 100vw;
+	text-align: center;
+	font-size: 100px;
+	color: pink;
+	background-color: white;
+	font color: black;
+}
+
+nav{
+	width:100vw;
+	font-size: 20px;
+	font color: black;
+
+}
+
+nav div{
+	width:20%;
+	float:left;
+	background-color: white;
+	text-align: center;
+
+}
+
+#listAbout {
+	font-size: 30px;
+}
+#moma {
+	font-size: 70px;
+	text-align: center;
+
+}
+#mainpicture {
+	width: 100%;
+	float: left;
+}
+#gif {
+	float:right;
+}
+#publish {
+	font-size: 20px;
+	text-align: center;
+}
